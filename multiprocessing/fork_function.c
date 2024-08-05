@@ -2,7 +2,6 @@
 #include <string.h>
 #include <stdlib.h>
 #include <unistd.h>
-
 typedef __pid_t pid_t;
 int main(void) {
     pid_t pid = fork();
