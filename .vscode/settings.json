@@ -2,6 +2,11 @@
     "files.associations": {
         "wait.h": "c",
         "unistd.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "stat.h": "c",
+        "types.h": "c",
+        "errno.h": "c",
+        "string.h": "c",
+        "stdio.h": "c"
     }
 }
